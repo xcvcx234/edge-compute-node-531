@@ -1,0 +1,1 @@
+const service_tkin = <T>(args: T): T => { return args; };
